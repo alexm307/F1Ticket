@@ -24,7 +24,6 @@ F1 Ticketing is an application designed to streamline the distribution of F1 rac
 - Java Spring Framework
 - MySQL Database
 - Maven (for dependency management)
-- Thymeleaf (for rendering views)
 
 ## Installation
 
@@ -43,3 +42,9 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/F1-Ticketing.git
    cd F1-Ticketing
+
+2. **Set up the MySQL database**
+3. **Build the project**
+4. **Run the application**
+5. **Access the application:**
+Open your web browser and navigate to http://localhost:8080.
